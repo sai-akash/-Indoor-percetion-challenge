@@ -26,7 +26,7 @@
 
 ## 🎯 Overview
 
-A complete robotics perception pipeline that processes RGB-D camera and LiDAR data to detect indoor furniture, estimate 3D positions, and visualize objects on occupancy grid maps. Built for the AICI Challenge 2024.
+A complete robotics perception pipeline that processes RGB-D camera and LiDAR data to detect indoor furniture, estimate 3D positions, and visualize objects on occupancy grid maps. Built for the AICI Challenge 2025.
 
 **Completed Challenges:**
 - ✅ **Challenge 1:** 3D object detection projected onto occupancy grid maps
