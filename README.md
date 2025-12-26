@@ -303,14 +303,14 @@ if (area > 30k px) and (aspect_ratio > 1.2):
 ## 📁 Project Structure
 
 aici_challenge/
-├── README.md           ← You have this
-├── src/                ← You have this
+├── README.md           
+├── src/                
 │   ├── read_rosbag.py
 │   ├── det_sample.py
 │   ├── occ_grid_map.py
 │   ├── ch1.py
 │   └── ch3.py
-└── outputs/            ← You have this
+└── outputs/            
     ├── challenge1/
     │   ├── bathroom_detected.png
     │   ├── bathroom_detections_final.yaml
@@ -417,16 +417,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Author
-
 **Sai Akash**
 
-Robotics & Computer Vision | Autonomous Systems
+Robotics & Computer Vision | 	M.sc Autonomy Technologies
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
+- GitHub: [sai-akash](https://github.com/sai-akash)
+- LinkedIn: https://www.linkedin.com/in/saiakash-as/
+- Email: saiakash97058@gmail.com
 ---
 
 ## 🙏 Acknowledgments
