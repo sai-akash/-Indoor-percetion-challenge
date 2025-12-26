@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# ROS
+rosbags/
+*.db3
+
+# Data files (large intermediate files)
+outputs/bathroom/
+outputs/office/
+*.npy
+*.npz
+
+# OS
+.DS_Store
+
+# YOLOv8
+runs/
+*.pt
+
+# Keep final outputs only
+!outputs/challenge1/*.png
+!outputs/challenge1/*.yaml
+!outputs/challenge3/*.png
+!outputs/challenge3/*.json
+!outputs/challenge3/*.yaml

@@ -1,0 +1,22 @@
+bathroom_origin:
+- -1.88
+- -2.59
+description: Transform to align office map with bathroom map
+environment: bathroom_and_office
+office_origin:
+- -3.97
+- -10
+resolution: 0.015
+transformation_matrix:
+- - 1.0
+  - 0.0
+  - -139.33333333333337
+- - 0.0
+  - 1.0
+  - -494.0
+translation_meters:
+- -2.0900000000000003
+- -7.41
+translation_pixels:
+- -139.33333333333337
+- -494.0

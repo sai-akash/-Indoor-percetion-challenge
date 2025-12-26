@@ -1,0 +1,132 @@
+- class: Chair
+  confidence: 0.949
+  pose_map:
+  - 269.0
+  - 901.0
+  pose_world:
+  - 0.07695337059194474
+  - -5.79609397957992
+  size_m:
+  - 1.0
+  - 1.0
+- class: Chair
+  confidence: 0.932
+  pose_map:
+  - 510.0
+  - 893.0
+  pose_world:
+  - 3.689242097419498
+  - -5.6759101535421115
+  size_m:
+  - 1.0
+  - 1.0
+- class: Chair
+  confidence: 0.923
+  pose_map:
+  - 159.0
+  - 765.0
+  pose_world:
+  - -1.5786728177958458
+  - -3.7455597754040584
+  size_m:
+  - 1.0
+  - 1.0
+- class: Chair
+  confidence: 0.897
+  pose_map:
+  - 149.0
+  - 900.0
+  pose_world:
+  - -1.7211882387235553
+  - -5.777022728741754
+  size_m:
+  - 1.0
+  - 1.0
+- class: Chair
+  confidence: 0.863
+  pose_map:
+  - 339.0
+  - 505.0
+  pose_world:
+  - 1.1235441642872313
+  - 0.15475434648813113
+  size_m:
+  - 1.0
+  - 1.0
+- class: Chair
+  confidence: 0.844
+  pose_map:
+  - 240.0
+  - 731.0
+  pose_world:
+  - -0.35813236486457756
+  - -3.244212052135583
+  size_m:
+  - 1.0
+  - 1.0
+- class: Chair
+  confidence: 0.771
+  pose_map:
+  - 278.0
+  - 421.0
+  pose_world:
+  - 0.20171437746297682
+  - 1.4083542991387805
+  size_m:
+  - 1.0
+  - 1.0
+- class: Chair
+  confidence: 0.738
+  pose_map:
+  - 231.0
+  - 545.0
+  pose_world:
+  - -0.4978102095568011
+  - -0.4594459180677326
+  size_m:
+  - 1.0
+  - 1.0
+- class: Table
+  confidence: 0.731
+  pose_map:
+  - 298.0
+  - 854.0
+  pose_world:
+  - 0.5041114981379802
+  - -5.084448060153692
+  size_m:
+  - 0.7863875818295512
+  - 0.8706433941684317
+- class: Chair
+  confidence: 0.711
+  pose_map:
+  - 275.0
+  - 543.0
+  pose_world:
+  - 0.16678622380772756
+  - -0.42569915441882245
+  size_m:
+  - 1.0
+  - 1.0
+- class: Chair
+  confidence: 0.646
+  pose_map:
+  - 276.0
+  - 692.0
+  pose_world:
+  - 0.17844604941839348
+  - -2.658220237759852
+  size_m:
+  - 1.0
+  - 1.0
+- class: Couch
+  confidence: 0.535
+  pose_map:
+  - 257.0
+  - 826.0
+  pose_world:
+  - -0.11072498645592255
+  - -4.672899989039789
+  size_m:
+  - 1.0
+  - 1.0
